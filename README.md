@@ -545,6 +545,6 @@ For more detailed troubleshooting, see [troubleshooting.md](./docs/troubleshooti
 
 **Last Updated**: 2025-12-28
 
-**Maintainer**: [@rahulbhatforu](https://github.com/rahulbhatforu)
+**Maintainer**: [@rahulbhatforu](https://github.com/rahulbhatforu) 
 
 For more information and updates, visit the [project repository](https://github.com/rahulbhatforu/quiz-video-generator)
