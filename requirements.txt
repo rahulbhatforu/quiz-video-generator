@@ -1,0 +1,14 @@
+moviepy
+opencv-python
+numpy
+pandas
+PySimpleGUI
+pyttsx3
+gTTS
+pillow
+scikit-image
+scipy
+imageio
+imageio-ffmpeg
+openpyxl
+python-dotenv
